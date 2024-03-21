@@ -1,6 +1,3 @@
-# Mysql
-
-
 package MySQL;
 
 import java.sql.Connection;
